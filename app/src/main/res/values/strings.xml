@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeightOnPlanets</string>
+    <string name="kilo">What weight in planets?</string>
+    <string name="kilo_gir">Enter your kg : </string>
+</resources>
